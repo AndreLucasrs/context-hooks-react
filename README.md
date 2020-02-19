@@ -1,4 +1,4 @@
-# Curso de React
+# React - (Context e Hooks)
 
 [Tutorial de React Context & Hooks](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) produzido por [The Net Ninja](https://www.thenetninja.co.uk/).
 
